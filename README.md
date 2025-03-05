@@ -1,4 +1,4 @@
-Hi, my ID says my name's Kelvin Mwendwa.
+Hi, my name's Kelvin Mwendwa.
 I'm a student at Moi University, Kenya doing a 4-year degree in Comp Science.
 Currently doing web dev projects.
 Interested in ML and AI.
