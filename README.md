@@ -50,7 +50,7 @@ Let’s connect, share ideas, or geek out over code:
 
 [![X (Twitter)](https://img.shields.io/badge/-@its_kelvin17-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/its_kelvin17)  
 [![Instagram](https://img.shields.io/badge/-@mwndwa._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mwndwa._)  
-[![Gmail](https://img.shields.io/badge/-kelvin17.glitch@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvin17.glitch@gmail.com)
+[![Gmail](https://img.shields.io/badge/-kelvinmwendwa290505@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvin17.glitch@gmail.com)
 
 ---
 
