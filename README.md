@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I’m Kelvin, a passionate Computer Science student at Moi University, focused on **Machine Learning** and **Data Science**. I’m on a quest to turn raw data into insightful stories and models that matter. I’m also eager to explore new realms like **Cybersecurity** and **Software Engineering**, because the adventure never ends.
+I’m Kelvin, a passionate Computer Science student at Moi University, focused on **Machine Learning** and **Data Science**. I’m on a quest to turn raw data into insightful stories and models that matter.
 
 ---
 
