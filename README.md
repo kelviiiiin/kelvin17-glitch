@@ -1,4 +1,4 @@
-# Kelvin Mwndwa 👨‍💻 | Data Science & Machine Learning Enthusiast
+# Kelvin Mwendwa 👨‍💻 | Data Science & Machine Learning Enthusiast
 
 ![Header Image](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1350&q=80)  
 *“Coding the future, one commit at a time.”*
