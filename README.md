@@ -38,9 +38,9 @@ I’m Kelvin, a passionate Computer Science student at Moi University, focused o
 ## 📚 Current Endeavors
 
 - 🎯 Building a **Speech Emotion Recognition** model using transformers and the CREMA-D dataset — decoding the voice of human emotions.
-- 🔍 Wrapping up a **Genre Classification** project on the GTZAN dataset with SVM, achieving ~83% accuracy.
+- 🔍 Doing a variety of online **Data Science Courses** to strengthen grasp on core concepts.
 - 🌱 Exploring **Cloud Computing** fundamentals to broaden my infrastructure knowledge.
-- 🧠 Crafting a **1-year advanced learning roadmap** targeting deep learning, SQL mastery, and cloud tech.
+- 🧠 Sharpening my **SQL and overall RDMS** repertoire.
 
 ---
 
