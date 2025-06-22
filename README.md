@@ -56,8 +56,7 @@ Here are a few gems from my lab:
 ## 📊 GitHub Insights
 
 ![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvin17-glitch&show_icons=true&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin17-glitch&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kelvin17-glitch&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin17-glitch&layout=compact&theme=radical)
 
 ---
 
