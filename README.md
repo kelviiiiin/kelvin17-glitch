@@ -19,6 +19,7 @@ Here are a few gems from my lab:
 
 - 🎵 [**Music Genre Classifier**](https://github.com/kelvin17-glitch/ML-Audio): SVM model on GTZAN dataset with 83% accuracy.  
 - 🎤 [**Speech Emotion Recognition**](https://github.com/kelvin17-glitch/emotion_recognition): A transformer-based model using the CREMA-D dataset to understand human emotions.
+- 🧠 [**MentalMate Bot Prototype**](https://github.com/kelvin17-glitch/mentalheath_bot): A conversational agent built with DistilBERT, emotion detection, RAG-style retrieval, and dynamic personas. This was an early mental health chatbot prototype before we shifted to a more API-driven architecture. Still a valuable playground for NLP and conversational AI experimentation.
 - 🤖 *More in the works—stay tuned!*
 
 ---
