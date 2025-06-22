@@ -33,4 +33,49 @@ Here are a few gems from my lab:
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-0D76A8?style=for-the-badge&logo=seaborn)
+![Seaborn](https://img.shields.io/badge/-Seaborn-0D76A8?style=for-the-badge&logo=seaborn&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 💾 Databases & Dev Tools
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🎯 Current Endeavors
+
+- 🤖 Fine-tuning a **transformer-based Speech Emotion Recognition** model on CREMA-D.
+- 🧠 Diving deeper into **SQL** and **Relational Databases** for high-quality data wrangling.
+- ☁️ Exploring **Cloud Computing** concepts and services.
+- 📈 Continuing **online Data Science & ML coursework** to deepen theoretical and practical fluency.
+
+---
+
+## 📊 GitHub Insights
+
+![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvin17-glitch&show_icons=true&count_private=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin17-glitch&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+Let’s connect, collaborate, or casually geek out over tech:
+
+[![X (Twitter)](https://img.shields.io/badge/-@its_kelvin17-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/its_kelvin17)  
+[![Instagram](https://img.shields.io/badge/-@mwndwa._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mwndwa._)  
+[![Gmail](https://img.shields.io/badge/-kelvinmwendwa290505@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvin17.glitch@gmail.com)
+
+---
+
+## 💬 Quote to Live By
+
+> *“The best way to predict the future is to invent it.”* — Alan Kay
+
+---
