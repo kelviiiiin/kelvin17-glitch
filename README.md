@@ -11,6 +11,7 @@
 
 Hi! My name is Kelvin Mwendwa. I am a CS student as of now. I have an enduring urge for continuous learning and constant improvement. My degree has so far introduced me
 to the world of CyberSec. I am especially fascinated in the subfields OffSec and Read Teaming. I am currently learning and horning my skills. I also try to hack systems for fun; ethically, ofcourse :).
+
 ---
 
 ## Skills & Tools
@@ -19,11 +20,6 @@ Python
 OSINT frameworks
 Common Security tools
 Kali
-
-## GitHub Insights
-
-![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvin17-glitch&show_icons=true&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin17-glitch&layout=compact&theme=radical)
 
 ---
 
